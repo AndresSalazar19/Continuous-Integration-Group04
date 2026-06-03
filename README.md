@@ -8,7 +8,7 @@
 | 2       | Loan a book to a member         | Alexandre Icaza González |
 | 3       | Return a book                   | Yadira Suarez            |
 | 4       | List books a member has on loan | [nombre]                 |
-| 5       | Report overdue loans            | [nombre]                 |
+| 5       | Report overdue loans            | Jose Marin Molina        |
 
 ## Setup
 
