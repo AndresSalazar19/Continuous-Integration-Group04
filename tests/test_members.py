@@ -9,7 +9,7 @@ def reset_data(tmp_path, monkeypatch):
 
 def test_register_member_returns_name_and_id():
     member = register_member("Ana")
-    assert member["name"] == "Ana"
+    assert member["name"] == "Carlsossss"
     assert "id" in member
 
 def test_register_member_saves_to_file():
