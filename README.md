@@ -21,3 +21,8 @@ python -m venv venv
 pip install -r requirements.txt
 pytest -q
 ```
+## Documentation
+
+* [Project Document Link](https://docs.google.com/document/d/1ClWo1p6J9tZQqmc02_rbQv9b9hjNERrb/edit?usp=sharing&ouid=105394917110847216739&rtpof=true&sd=true)
+
+> ⚠️ **Note:** For some reason, this link can currently only be accessed using the browser's incognito mode.
